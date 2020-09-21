@@ -1,2 +1,2 @@
-# Starting with data science
+# Starting with Data Science
 Alura's course about starting with data science.
