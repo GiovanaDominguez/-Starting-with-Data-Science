@@ -1,2 +1,2 @@
-# Introdução a Data-Science
-Curso do Alura de Introdução a Data Science
+# Starting with data science
+Alura's course about starting with data science.
