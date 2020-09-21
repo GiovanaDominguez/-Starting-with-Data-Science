@@ -1,2 +1,2 @@
-# Data-Science---Primeiros-Passos
-Curso do Alura para Data Science - Primeiros Passos
+# Introdução a Data-Science
+Curso do Alura de Introdução a Data Science
